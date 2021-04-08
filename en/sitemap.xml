@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maylilyo.github.io/en/-_index/</loc>
+    <loc>https://maylilyo.github.io/en/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://maylilyo.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://maylilyo.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maylilyo.github.io/en/"
+                />
   </url><url>
     <loc>https://maylilyo.github.io/en/categories/</loc>
     <xhtml:link
@@ -20,23 +35,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://maylilyo.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>https://maylilyo.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://maylilyo.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://maylilyo.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maylilyo.github.io/en/"
                 />
   </url><url>
     <loc>https://maylilyo.github.io/en/tags/</loc>
